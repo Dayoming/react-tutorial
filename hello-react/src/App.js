@@ -1,8 +1,7 @@
-import MyComponent from "./MyComponent.js";
-import "./App.css";
+import Counter from "./Counter";
 
 const App = () => {
-  return <MyComponent>리액트</MyComponent>;
+  return <Counter />;
 };
 
 export default App;
